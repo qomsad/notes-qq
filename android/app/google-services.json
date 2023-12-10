@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910236254563",
+    "project_id": "notes-qq",
+    "storage_bucket": "notes-qq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910236254563:android:23bf895228ff7be0741356",
+        "android_client_info": {
+          "package_name": "com.example.notes_qq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC96QCZON-d92plb5DwHuR3N9xNw1dnSoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
